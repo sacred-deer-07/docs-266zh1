@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ptbxfv.liguriasdiary.com/sitemap.xml
